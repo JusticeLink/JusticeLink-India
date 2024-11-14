@@ -1,16 +1,26 @@
-# jli_frontend
+## JusticeLink India
+A legal aid initiative - connecting under-trial prisoners with pro bono lawyers
 
-A new Flutter project.
 
-## Getting Started
+- onboarding interface
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/new/jli_language.jpg" alt="Language" width="250"/>
+  <img src="assets/new/jli_signup.jpg" alt="Signup" width="250"/>
+  <img src="assets/new/jli_user.jpg" alt="User" width="250"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+- user interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="assets/new/jli_home.jpg" alt="Home" width="250"/>
+  <img src="assets/new/jli_lawyers.jpg" alt="Lawyers" width="250"/>
+  <img src="assets/new/jli_chatbot.jpg" alt="Chatbot" width="250"/>
+  <img src="assets/new/jli_chat.jpg" alt="Chat" width="250"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- lawyer home page
+
+<p align="center">
+  <img src="assets/new/jli_lawyerside.jpg" alt="Lawyer side" width="250"/>
+</p>
